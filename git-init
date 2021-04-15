@@ -1,0 +1,3 @@
+git remote add origin https://github.com/mgiglia/alphvanger.git
+git commit -m "initial commit"
+git commit -u push origin master
